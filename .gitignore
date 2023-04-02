@@ -1,0 +1,26 @@
+#VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#Images
+*.png
+*.img
+random-numbers-dice.jpg
+logo.img
+img/
+
+#videos
+*.mp4
+
+
+#packages (used packs)
+
+
+#logs
+*.log
+password.txt
+
+#internet ortamında her frameworkün varsayılan ignore dosyası mevcut
